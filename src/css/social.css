@@ -1,0 +1,51 @@
+.socialMedia a{
+    display: inline-flex;
+    width: 50px;
+    height: 50px;
+    background-color: #2c3e50;
+    font-size: 25px;
+    color: #fff;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    margin: 0 6 px;
+
+}
+.socialMedia a:hover{
+    opacity: 0.5;
+    background-color: orange;
+}
+.background{
+    margin: 0;
+    padding: 0;
+}
+.detay a{
+    color: #2c3e50;
+    font-size: 30px;
+    margin: 0 6 px;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+}
+
+footer{
+    background-color: #2c3e50;
+   
+}
+footer .logo{
+    margin: 5px;
+}
+footer .item{
+    display: flex;
+    float: right;
+}
+
+footer .logos{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    float:right;
+
+}
+
